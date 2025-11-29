@@ -6,8 +6,8 @@
 AI-powered note-taking app that lets you capture, organize, and enhance your thoughts through intelligent suggestions. Built with modern web technologies to create a seamless, secure, and performant experience.
 
 ## 🚀 Live Demo
-
-👉 [https://noteforge-ai.vercel.app]((https://note-forge-ai-main.vercel.app/))
+s
+👉 [https://noteforge-ai.vercel.app]([https://note-forge-ai-main.vercel.app/])
 
 ---
 
