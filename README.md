@@ -7,7 +7,7 @@ AI-powered note-taking app that lets you capture, organize, and enhance your tho
 
 ## 🚀 Live Demo
 
-👉 [https://noteforge-ai.vercel.app](https://noteforge-ai.vercel.app)
+👉 [https://noteforge-ai.vercel.app]((https://note-forge-ai-main.vercel.app/))
 
 ---
 
